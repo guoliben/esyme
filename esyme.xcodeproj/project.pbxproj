@@ -511,6 +511,7 @@
 				B58BB6081CFEB25300881B5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B58BB6091CFEB25300881B5D /* Build configuration list for PBXNativeTarget "esymeTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +520,7 @@
 				B58BB60B1CFEB25300881B5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B58BB60C1CFEB25300881B5D /* Build configuration list for PBXNativeTarget "esymeUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +529,7 @@
 				B58BB60E1CFEB25300881B5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
